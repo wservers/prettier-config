@@ -1,0 +1,19 @@
+{
+	"name": "@wservice/prettier-config",
+	"version": "1.0.0",
+	"description": "WSERVICE's prettier config.",
+	"main": ".prettierrc.json",
+	"author": "Migan178 <me@migan.co.kr>",
+	"license": "MIT",
+	"devDependencies": {
+		"prettier": "^3.4.2"
+	},
+	"files": [
+		".prettierrc.json",
+		"LICENSE"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wservers/prettier-config.git"
+	}
+}
